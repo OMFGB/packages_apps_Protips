@@ -32,31 +32,29 @@
          |_____________________________________________|    U U
     -->
     <string-array name="tips">
-        <!-- Tip: Where the launcher icon is and what it does. With icon. -->
-        <item>See all your apps.\n
-        Touch the Launcher icon. @drawable/all_apps</item>
+        <!-- Tip: Welcome -->
+        <item>Welcome to OMFGB.\n
+        Hope you stick around for a bit! @drawable/welcome</item>
 
-        <!-- Tip: Longpress in Launcher (all apps) to drag apps to the home screen. -->
-        <item>Drag apps to your Home screen.\n
-        Touch &amp; hold an app in the Launcher until it vibrates.</item>
+        <!-- Tip: IRC -->
+        <item>IRC Anyone?\n
+        The IRC is a pretty cool place. You should stop by sometime. #r2gb </item>
 
-        <!-- Tip: Longpress to move icons/widgets around. -->
-        <item>Rearrange your Home screen.\n
-        Touch &amp; hold an item and when it vibrates, drag it where you want.</item>
+        <!-- Tip: Twitter -->
+        <item>Follow us on Twitter.\n
+        @r2DoesInc @xoomdev @linuxmotion </item>
 
-        <!-- Tip: Longpress icons/widgets and drag to trash to remove them. -->
-        <item>Remove items.\n
-        Touch &amp; hold an item and when it vibrates, drag it to the Trash icon. @drawable/trash</item>
+        <!-- Tip: Blurb -->
+        <item>Uhhhmmm....\n
+        My volcano is cooler than yours.</item>
 
-        <!-- Tip: Swipe to switch workspaces; drag items to move them to other
-             workspaces. -->
-        <item>Multiple Home screens.\n
-        Swipe left or right to switch. Drag items to other screens.</item>
+        <!-- Tip: Contact -->
+        <item>Any questions?\n
+        r2doesinc@gmail.com</item>
 
-        <!-- Tip: Reminder about how to delete widgets, reinforcing that this
-             technique can be used to remove the tips widget iteself. -->
-        <item>Done with this widget?\n
-        Touch &amp; hold it and when it vibrates, drag it to the Trash icon.</item>
+        <!-- Tip: Thanks-->
+        <item>Thank you!\n
+        Quick thank you to all my donators!</item>
     </string-array>
     
     <!-- dial *#*#TIPS#*#* -->
